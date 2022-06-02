@@ -1,3 +1,3 @@
-# My App is been Deploy
+# App is been deployed
 
-Check my website on this url: "https://reddit-project-ten.vercel.app"
+https://reddit-project-ten.vercel.app

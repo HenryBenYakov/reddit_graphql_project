@@ -1,4 +1,4 @@
-# Welcome to my Reddit Project
+# Welcome to my Reddit Full-Stack Project
 
 ## The APP is been Deployed to Vercel
 

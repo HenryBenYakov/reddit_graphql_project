@@ -1,6 +1,6 @@
 # Welcome to my Reddit Project
 
-## Technology
+## Technology used:
 
 NEXT.JS (SSR)
 REACT

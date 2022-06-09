@@ -11,6 +11,6 @@ StepZen
 GraphQL
 Supabase
 
-# The APP is been Deployed to Vercel
+## The APP is been Deployed to Vercel
 
 https://reddit-project-ten.vercel.app
